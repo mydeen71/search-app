@@ -9,4 +9,4 @@ Run "npm start"
 React, Material-Ui, Pixabay API
 
 
-API used for stock images⇒ https://pixabay.com/api
+API used for stock images⇒ https://pixabay.com/api/docs
